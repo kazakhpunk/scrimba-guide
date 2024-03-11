@@ -2,8 +2,8 @@ body {
     background-image: url("station.jpg");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-weight: bold;
     text-align: center;
+    font-weight: bold;
     height: 100vh;
 }
 
